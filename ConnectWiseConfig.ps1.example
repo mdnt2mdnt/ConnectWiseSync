@@ -1,0 +1,7 @@
+﻿$CWConfig = @{
+   ServerBaseURL        = 'xxx'
+   CompanyName          = 'xxx'
+   Username             = 'xxx'
+   Password             = 'xxx'
+   ImpersonationMember  = 'xxx'
+}
